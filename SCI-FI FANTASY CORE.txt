@@ -1,0 +1,159 @@
+﻿
+SCI-FI FANTASY CORE is a game overhaul for No Man’s Sky changing gameplay, adding new gameplay mechanics, 
+improving visuals, planets terrain, flora, fauna, adding diversity,  buildings and custom new props. 
+Most of the changes are not visible for vanilla players, but you can instance a game with them still.
+ The Alpha Vector bonus ship given by the mod is visible by vanilla players and will stay in your save after the mod removal. 
+This mod can be switch to vanilla as often as you want. The mod is compatible with any mods as long as their filename starts by an underscore. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note For modders :
+"SCI FI fantasy core" aims to be a base layer for modding, and that is easy to maintain ( quickly updatable  ).
+The inhibitors ( quicly updatable , 100% made of vanilla files ), responds to ppl wishes, but it is also a start for furthers mods.
+ I gave a detailed description of them so that, ppl take the inhibitors and tweak them to create their own mods, that will tweak the core.
+ Its also an interresting and easy way to learn modding for newbies.
+ Since inhibitors description give info on what the vanilla gamefiles are changing, and with some advices on what they do to the game.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INSTALLATIION 
+Drag the MOD pak of the archive into [NMSGAMELOCATION]/PCBANKS/MODS/
+Remove «disablemods.txt» located in [NMSGAMELOCATION]/PCBANKS/ 
+Any of the following aspects can be disabled by adding the corresponding inhibitor given with the mod.
+ If the one you are needing is not given,  you can ask me to add it. 
+Add the in inhibitor pak to the mods folder without caring of compatibility warning ( the «_» prefix will ovewrite the core file, which is what we want. )
+*******************************************************************************************************************************************************
+Frontiers Features change : 
++- Realistic Pets behaviour ( Reworked the way pets are spritting, getting tired and walking with you. Pets will guide you to the things they can spot far in the distance.) 
++ Settlements Npc's gives missions
++ Settlements can be decorated with interactive objects and decorations
+- Frontiers doesn't support Dragonfly Geobay creation ( but dragonfly is still in modded tradingposts )
+******************************************************************************************************************************************************
+----------------------------- VISUALS -------------------------------
+ 
+- Improved sunset colors and day skies.
+ 
+- Spaceships hot trail is removed for more realistic rendering ( trails are still visible in combat, if you use a custom trail or for any player seeing you )
+ 
+- Spaceships have more detailed and shiny metalic parts. Shuttles have fresh painting and/or metallic shinny parts.
+ 
+- Reduction of storms blinding
+ 
+- Blur effect in the distance - you must activate depth of field in the photomode lens tab in order to be able to control the focal point. )
+- Planets filters are brighter
+ 
+- water have more reflections and is more transparent.
+ 
+- Menus are more pleasing with custom backgrounds images
+ 
+ 
+----------------------------- SPACE -------------------------------
+ 
+- Asteroids overhaul : More sparse , possibilty of huge ones, no more clipping on them, they spawn more often rare items, contact with them is lethal. 
+- More traffic in space.  Added custom spaceships models. 
+- Trading routes are hidden. 
+- Derelic freighters mission now happens in a procedural crash site. 
+- sentinels ships are roaming in space 
+- Living ships are roaming in space and can be purchased
+- Spaceships AI improvements
+- Spaceships land more often on planet surface
+- Improved spaceships controls : can hover on planets, booster is more efficient ( almost Pulse speed + direction controls ( useful to enter planets atmosphere faster, or in pulse breakdown )
+- Improved spaceships combat system : More efficient enemy weapons, more dodgy and faster enemies. Enemy health balanced according to their numbers and to their wanted level. )
+- Player’s multi-tool mining speed is 5 times faster.
+- Take-off are 25% cheaper ( this value will change from a ship to another and also it will depend on the game mode )
+- Jetpacks ( suit and mech ) have larger tanks ( depends on the level of upgrades installed ( can reach almost infinite ( use jetpack is using the lifesupport as well ))
+- Hyperdrive range is boosted
+- One Warp cell can be used for 5 jumps ( spaceships breakdown will be surprising / not a routine )
+ 
+------------------------ GAMEPLAY CHANGES ----------------------
+
+- Faster game start ( mining x 5 , 1 small exocraft available to build (the dragonfly ( goes under water and high in air )) , exocraft geobay is only 4 metal plates and 1 ion battery, and can be stacked as an item in invetory ( u dont have to build it each time), bets for creatures, creatures mounting is more efficient )
+
+- Cameras overhaul: all cameras have larger FOV, Camera will place more far or on shoulder depending on situations. ( like while mining on vehicles ) The camera will not shake unless massive scale events happen ( nearby Sand-worms or volcanic eruptions )  The spaceship is not visible while warping between 2 systems.
+Exocrafts controls rework so that they are an efficient way to travel on planet surface. ( able to climb montains and fast travelling. Each exocrafts have its own advantages. ) It is recommanded to install a boost update on every vehicles. + Mech perform 360 turns fast.
+ 
+- Sentinels combat improvements: Sentinels are more dodgy, they will hide from player sight, their attacks are more powerful and short. Combat escalade faster.  The walker will act like a boss and will use a machinegun as a final attack when his life is low. It’s  attack is very powerful but still dodgable if you focus it. Dogs act like snipers, and drones wil take high sky to locate your position.
+ 
+- Player’s onfoot movements are improved: Turns are faster, jetpack is more controlable in air and can be use as a way to travel. Rocket boots do a bigger jump that allows to take off for flying or to get out of caves. Player swims faster, and jetpack under water is more efficient. The player walk by default, you will have to use the sprint action in order to run ( or use the jetpack ). Player is not slowed down while using multi-tool shield ( for more dynamic combats )
+ 
+ 
+---------- ADDITIONAL GAMEPLAY FEATURES --------------
+ 
+- exocrafts geobays are cheaper and can be stack in inventories 
+- Addition of the dragonfly exocraft which is a version of the submarine that can go on planet surface. 
+- Trading posts have more interactive objects which some are only available for a particular race system. They have save point tables, Nexus missions  terminals, several solo missions terminal, purchasable weapons on Vykeen systems, suit upgrades on Korvax Systems, Spaceships upgrades terminals on Gek systems, Player customization stations, Exocrafts Geobays ( useful for doing collect missions ) 
+- Player customization have more advanced body option with several shades of weight or height. As well as more facial shape options. 
+- Electromagnetic generators dont require electromagnetic fields to work, which can be use if you dont want to have to worry about electric powering. 
+- Light tables and beds are save points 
+- Large Computer Desks are signal scanners. 
+Shelf storage , Lockers, Worktops, & Draws, opens character customization. 
+- Beds & Light Tables are save points. 
+- Screen monitors open NPC's missions' interface. 
+- Weaponrack allows to infinitly buy new multitools (the seed depends on the weaponracks). 
+- Plants pot decorations
+generates Sodium, Salt, Carbone, or Oxygen. 
+- Fan Ventilation generates Oxygen. 
+- Roof Monitors & Robotic Arm infinitly open upgrade suit interface. (same costs that on space
+stations) . 
+- Collect All ferrite substances in Large Flat Crates. 
+- Collect Silver, Copper, Platine &more in Cubic Crates. 
+- Collect Chromatic Metal, Ionised Cobalt,Nanites and more in Freighters Hangars Crates. 
+- Collect Chore on sea plants Decorations 
+- Freighters Hangars have Spaceships upgrades station very convinient since you can switch ships fast 
+- Freighters Hangars have Trading terminals ( useful to empty invetory or to buy something you lack of ) 
+ - Freighters Hangars have Nexus portals which allows to quick go to a base. ( faster than calling the nexus ) 
+- You can build wood and concrete earth parts inside your freighter
+- You can build underwater base parts above planet surface 
+- Every building  items are resizable 
+- When starting a new game you will have the Alpha Vector spaceship as the default spaceship and a nice multitool. 
+- Default player skin is replaced by a nicer one ( you must save it in the characters customisation save slots in order to have it in vanilla as well )
+- Default characters presets are nicer ( some are chars from the trailers of the mod ) ( you also have to save it in the characters customisation save slots in order to see it in vanilla as well )
+ 
+---------- PLANET GENERATION --------------
+
+- Atmospheric procedural NPCs Freighters looking for distress signals ( some can be under attack)
+
+- Changes on sandworms :
+﻿	o Sandworms spawn more often
+﻿	o Sandworms slides on planet surface
+	﻿o Sandworms have collisions
+	﻿o Sandworms avoid structures
+	﻿o Sandworms can be interacted with when close enougth ( loot Anciant bones )
+﻿	o Sandworms take damages
+	﻿o sandworms can performs 360 turns
+	o Sandworms are more different in sizes ( much more bigger or smaller )
+﻿	o Sandworms are visible on bioculars and can be scanned ( very challenging btw )
+ 
+- Planets fauna diversity improved
+ 
+- Creatures behaviours and animations improvements
+ 
+- Creatures can be smaller and larger
+ 
+- Pets rides and fly faster
+ 
+- Fiends spawn more numerous but with low Health ( makes fiends combats scarier and fun )
+ 
+- creatures spawn more far in the distance
+ 
+- Flying snakes tails improvements
+ 
+- Rare creatures spawn more often
+ 
+- planets have more various type of terrain
+ 
+- Terrain have fantasy shapes hills and ressources formations
+( mainly compatible with vanilla terrain, you might have to use the multi-tool’s terrain manipulator tool  to remove things while passing from vanilla to modded )
+ 
+- Fantasy planets generation : planet colors changes, planets have E3 props, buildings, and other custom props
+
+- Planets have higher density
+ 
+- Planets with high storms have broken trees on the floor
+ 
+- Caves have treasures chests, fiend eggs, and predators hidden in them.
+ 
+- Redesigned biomes.
+ 
+ 
+ 
+
+ 
+ 
+ 
